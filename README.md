@@ -16,16 +16,9 @@ pip install mpu6050-raspberrypi
 Python3 mpu_6050.py
 ```
 
-
-## Authors
-
-**Arijit Das** 
-
-
 ## Acknowledgments
 
-*The library used in this code is written by https://github.com/m-rtijn/mpu6050/
 * https://pypi.org/project/mpu6050-raspberrypi/
-
+* The library used in this code is written by https://github.com/m-rtijn/mpu6050/
 
 
